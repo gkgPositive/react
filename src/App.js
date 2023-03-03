@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="C:\Users\gkgpositive\Desktop\react\public\2.html"
+          href="../public/2.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          next
+          next !
         </a>
       </header>
     </div>
